@@ -9,8 +9,7 @@ const Section = styled.section`
   min-height: 100vh;
   color: #fff;
   position: relative;
-  background: linear-gradient(135deg, rgba(0,123,255,0.6), rgba(0,198,255,0.6)), 
-              url(${Background}) no-repeat center center;
+  background:  url(${Background}) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
 `;
