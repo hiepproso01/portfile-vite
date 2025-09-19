@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import ImageMe from "../assets/image/me.jpg";
-import MyCV from "../assets/documents/CV_ThaiVanHiep_SoftwareDeveloper.pdf"
+import MyCV from "../assets/documents/CV_SoftwareEngineer_ThaiVanHiep.pdf";
 const Section = styled.section`
   padding: 50px 20px;
   background: #f9f9f9;
